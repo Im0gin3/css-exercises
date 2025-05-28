@@ -1,0 +1,11 @@
+.first {
+    background-color: black;
+    color: rgb(246, 235, 235);
+}
+.mix {
+    font-size: 28px;
+    font-family: Helvetica, "Times New Roman", sans-serif;
+}
+.second{
+    background-color: yellow;
+}
